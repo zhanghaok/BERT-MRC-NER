@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "eval.py", line 118, in <module>
+    F1 = 2*P*R/(P+R)
+ZeroDivisionError: float division by zero
